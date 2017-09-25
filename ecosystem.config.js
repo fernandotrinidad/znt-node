@@ -1,7 +1,7 @@
 module.exports = {
   apps: [{
     name: 'znt-node',
-    script: './app.js'
+    script: './bin/www'
   }],
   deploy: {
     production: {
